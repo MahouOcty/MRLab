@@ -766,7 +766,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: be14fb93c9a0b0844b2e82da9e51d9a9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  url: 
+  url: http://localhost:9000/tags/maquina
   initialTimeText: {fileID: 1383733886}
   totalTimeText: {fileID: 1661284158}
   bottlesText: {fileID: 1706374392}
@@ -1263,6 +1263,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   panel: {fileID: 1338862342}
+  apiReciever: {fileID: 351848895}
   buttonText: {fileID: 1161474325}
 --- !u!1001 &878366328
 PrefabInstance:
